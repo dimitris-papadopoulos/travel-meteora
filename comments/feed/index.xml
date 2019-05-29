@@ -8,11 +8,11 @@
 <channel>
 	<title>
 	Comments for 	</title>
-	<atom:link href="/https://dimitris-papadopoulos.github.io/travel-meteora/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://dimitris-papadopoulos.github.io/travel-meteora</link>
+	<atom:link href="http://dimitris-papadopoulos.github.io/travel-meteora/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://dimitris-papadopoulos.github.io/travel-meteora</link>
 	<description></description>
 	<lastBuildDate>
-	Wed, 29 May 2019 16:17:13 +0000	</lastBuildDate>
+	Wed, 29 May 2019 16:47:17 +0000	</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
